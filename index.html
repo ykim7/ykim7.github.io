@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Parcel Sandbox</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="final.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+  </head>
+  <body>
+    <h1 class="jsClock"></h1>
+    <form id="loginForm" class="hidden">
+        <input required maxlength="15" type="text" placeholder="What is your Name?"/>
+        <input type="submit" value="Log In">    
+    </form>
+    <h1 id="greeting" class="hidden"></h1>
+    <form id="toDoForm">
+        <input type="text" placeholder="write a to do and press enter" required/>
+    </form>
+    <ul id="toDoList"></ul>
+    <div id="weather">
+        <span></span>
+        <span></span>
+    </div>
+    <script src="final_clock.js"></script>
+    <script src="final_todo.js"></script>
+    <script src="final_login.js"></script>
+    <script src="final_randomBG.js"></script>
+    <script src="final_weather.js"></script>
+  </body>
+</html>
