@@ -13,11 +13,11 @@ export default function Home() {
             <main className="flex-1 flex items-center justify-center px-6">
                 <div className="max-w-md text-center">
                     <h1 className="text-3xl md:text-4xl font-semibold text-foreground mb-3 text-balance">
-                        Hello, I'm a Developer
+                        thingking . . .
                     </h1>
 
                     <p className="text-muted-foreground mb-10 leading-relaxed text-pretty">
-                        Building thoughtful digital experiences with clean code and creative design.
+                        working . . .
                     </p>
 
                     <nav className="flex flex-col items-center gap-4">
