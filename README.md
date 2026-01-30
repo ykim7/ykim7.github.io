@@ -1,1 +1,3 @@
-for blog
+# blog using gibhub pages
+
+working . . .
